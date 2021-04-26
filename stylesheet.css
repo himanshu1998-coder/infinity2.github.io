@@ -417,9 +417,8 @@ h2.border_u_d.heading {
     backdrop-filter: blur(3px);
   }
   .enquiry-desktop {
-    position: absolute;
-    right: -3%;
-    top: 50;
+    position: fixed;
+    right: -1%;
     top: 50%;
     font-weight: 700;
     color: #fff;
